@@ -4,11 +4,11 @@ SELECT TOP(2) Salary
 FROM Instructors 
 ORDER BY Salary DESC;
 --2. Write a query to select the highest two salaries in Each 
---Department for instructors who have salaries. ìusing one of Ranking Functionsî
+--Department for instructors who have salaries. ‚Äúusing one of Ranking Functions‚Äù
 SELECT * 
 FROM ( SELECT *, ROW_NUMBER() OVER (PARTITION BY Dep_ID ORDER BY Salary DESC ) AS RN FROM Instructors) AS NewTable
-WHERE RN =1;
---3.Write a query to select a random student from each department. ìusing one of Ranking Functions
+WHERE RN <=2;
+--3.Write a query to select a random student from each department. ‚Äúusing one of Ranking Functions
 SELECT * FROM (SELECT *,ROW_NUMBER()OVER (PARTITION BY Dep_ID ORDER BY NEWID()) AS RN FROM Students) AS NewTable
 WHERE RN=1;
 --4.Create a multi-statements table-valued function that takes 2 integers and returns the values between them.
@@ -44,8 +44,6 @@ return
 	WHERE 
 		Stud_ID=@S_ID);
 SELECT * FROM dbo.GetData(8);
-SELECT *FROM Instructors
-SELECT *FROM Departments
 --6.Create a function that takes an integer which represents the format of the Manager hiring date and displays department name, Manager Name and hiring date with this format.
 CREATE FUNCTION DispData(@Format INT)
 returns @t table
