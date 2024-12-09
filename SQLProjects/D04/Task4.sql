@@ -7,7 +7,7 @@ ORDER BY Salary DESC;
 --Department for instructors who have salaries. “using one of Ranking Functions”
 SELECT * 
 FROM ( SELECT *, ROW_NUMBER() OVER (PARTITION BY Dep_ID ORDER BY Salary DESC ) AS RN FROM Instructors) AS NewTable
-WHERE RN =1;
+WHERE RN <=2;
 --3.Write a query to select a random student from each department. “using one of Ranking Functions
 SELECT * FROM (SELECT *,ROW_NUMBER()OVER (PARTITION BY Dep_ID ORDER BY NEWID()) AS RN FROM Students) AS NewTable
 WHERE RN=1;
