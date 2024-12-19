@@ -1,0 +1,15 @@
+D:\.NetBackend\C#Tasks\D02\D02\bin\Debug\net8.0\D02.exe
+D:\.NetBackend\C#Tasks\D02\D02\bin\Debug\net8.0\D02.deps.json
+D:\.NetBackend\C#Tasks\D02\D02\bin\Debug\net8.0\D02.runtimeconfig.json
+D:\.NetBackend\C#Tasks\D02\D02\bin\Debug\net8.0\D02.dll
+D:\.NetBackend\C#Tasks\D02\D02\bin\Debug\net8.0\D02.pdb
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.AssemblyInfoInputs.cache
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.AssemblyInfo.cs
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.csproj.CoreCompileInputs.cache
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.sourcelink.json
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.dll
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\refint\D02.dll
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.pdb
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\D02.genruntimeconfig.cache
+D:\.NetBackend\C#Tasks\D02\D02\obj\Debug\net8.0\ref\D02.dll
