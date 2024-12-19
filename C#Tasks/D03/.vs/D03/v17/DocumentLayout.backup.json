@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetBackend\\C#Tasks\\D03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639BD7F1-8CD4-4D2D-8E63-48448E23855B}|D03\\D03.csproj|d:\\.netbackend\\c#tasks\\d03\\d03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639BD7F1-8CD4-4D2D-8E63-48448E23855B}|D03\\D03.csproj|solutionrelative:d03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetBackend\\C#Tasks\\D03\\D03\\Program.cs",
+              "RelativeDocumentMoniker": "D03\\Program.cs",
+              "ToolTip": "D:\\.NetBackend\\C#Tasks\\D03\\D03\\Program.cs",
+              "RelativeToolTip": "D03\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwGkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:33:11.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
