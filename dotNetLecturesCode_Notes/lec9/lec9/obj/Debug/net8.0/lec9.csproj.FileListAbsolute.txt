@@ -1,0 +1,14 @@
+D:\C#Projects\lec9\lec9\bin\Debug\net8.0\lec9.exe
+D:\C#Projects\lec9\lec9\bin\Debug\net8.0\lec9.deps.json
+D:\C#Projects\lec9\lec9\bin\Debug\net8.0\lec9.runtimeconfig.json
+D:\C#Projects\lec9\lec9\bin\Debug\net8.0\lec9.dll
+D:\C#Projects\lec9\lec9\bin\Debug\net8.0\lec9.pdb
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\lec9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\lec9.AssemblyInfoInputs.cache
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\lec9.AssemblyInfo.cs
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\lec9.csproj.CoreCompileInputs.cache
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\lec9.dll
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\refint\lec9.dll
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\lec9.pdb
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\lec9.genruntimeconfig.cache
+D:\C#Projects\lec9\lec9\obj\Debug\net8.0\ref\lec9.dll

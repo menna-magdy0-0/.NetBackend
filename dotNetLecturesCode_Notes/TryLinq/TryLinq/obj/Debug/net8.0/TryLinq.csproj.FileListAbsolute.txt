@@ -1,0 +1,14 @@
+D:\C#Projects\TryLinq\TryLinq\bin\Debug\net8.0\TryLinq.exe
+D:\C#Projects\TryLinq\TryLinq\bin\Debug\net8.0\TryLinq.deps.json
+D:\C#Projects\TryLinq\TryLinq\bin\Debug\net8.0\TryLinq.runtimeconfig.json
+D:\C#Projects\TryLinq\TryLinq\bin\Debug\net8.0\TryLinq.dll
+D:\C#Projects\TryLinq\TryLinq\bin\Debug\net8.0\TryLinq.pdb
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\TryLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\TryLinq.AssemblyInfoInputs.cache
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\TryLinq.AssemblyInfo.cs
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\TryLinq.csproj.CoreCompileInputs.cache
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\TryLinq.dll
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\refint\TryLinq.dll
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\TryLinq.pdb
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\TryLinq.genruntimeconfig.cache
+D:\C#Projects\TryLinq\TryLinq\obj\Debug\net8.0\ref\TryLinq.dll

@@ -1,0 +1,14 @@
+D:\C#Projects\MyShapes\MyShapes\bin\Debug\net8.0\MyShapes.exe
+D:\C#Projects\MyShapes\MyShapes\bin\Debug\net8.0\MyShapes.deps.json
+D:\C#Projects\MyShapes\MyShapes\bin\Debug\net8.0\MyShapes.runtimeconfig.json
+D:\C#Projects\MyShapes\MyShapes\bin\Debug\net8.0\MyShapes.dll
+D:\C#Projects\MyShapes\MyShapes\bin\Debug\net8.0\MyShapes.pdb
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\MyShapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\MyShapes.AssemblyInfoInputs.cache
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\MyShapes.AssemblyInfo.cs
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\MyShapes.csproj.CoreCompileInputs.cache
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\MyShapes.dll
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\refint\MyShapes.dll
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\MyShapes.pdb
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\MyShapes.genruntimeconfig.cache
+D:\C#Projects\MyShapes\MyShapes\obj\Debug\net8.0\ref\MyShapes.dll

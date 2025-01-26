@@ -1,0 +1,125 @@
+﻿<Window x:Class="WpfDay01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfDay01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="673">
+    <!--#region Simple Property  -->
+    <!--<Button Name="Btn1" Background ="Red" Content="Click"></Button>-->
+    <!--#endregion-->
+
+    <!--#region Complex Property -->
+    <!--<Button Name="Btn1"  Content="Click">
+        <Button.Background>
+            <ImageBrush ImageSource ="/Back.jpg"/>
+        </Button.Background>
+
+    </Button>-->
+    <!--#endregion-->
+
+    <!--#region Markup Extension property -->
+    <!--<Button Background="{x:Static SystemColors.ActiveCaptionBrush}">
+        
+    </Button>-->
+
+    <!--#endregion-->
+
+    <!--#region Attached Property -->
+
+    <!--#endregion-->
+
+    <!--#region Event -->
+    <!--<Button Click="Button_Click"></Button>-->
+    <!--#endregion-->
+
+    <!--#region Control -->
+    <!--<StackPanel>
+    <GroupBox Name="GrB" Header="List" >
+        <StackPanel>
+            <RadioButton></RadioButton>
+            <RadioButton></RadioButton>
+            <RadioButton></RadioButton>
+        </StackPanel>
+        
+    </GroupBox>
+    <Expander Header="More Options">
+        <StackPanel Margin="10,4,0,0">
+            <CheckBox Margin="4">Option 1</CheckBox>
+            <CheckBox Margin="4">Option 2</CheckBox>
+            <CheckBox Margin="4">Option 3</CheckBox>
+        </StackPanel>
+    </Expander>
+        <TabControl Margin="5" TabStripPlacement="Top">
+            <TabItem Header="Tab 1">
+                <StackPanel Margin="3">
+                    <CheckBox Margin="3">Setting One</CheckBox>
+                    <CheckBox Margin="3">Setting Two</CheckBox>
+                    <CheckBox Margin="3">Setting Three</CheckBox>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="Tab 2">
+                <StackPanel Margin="3">
+                    <RadioButton Margin="3">Option One</RadioButton>
+                    <RadioButton Margin="3">Option Two</RadioButton>
+                    <RadioButton Margin="3">Option Three</RadioButton>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </StackPanel>-->
+    <!--#endregion-->
+
+    <!--#region Panels -->
+    <!--<StackPanel VerticalAlignment="Top" Orientation="Horizontal">
+        <Button Margin="5" Width="100" Height="30"></Button>
+        <Button Margin="5" Width="100" Height="30"></Button>
+        <Button Margin="5" Width="100" Height="30"></Button>
+        <Button Margin="5" Width="100" Height="30"></Button>
+    </StackPanel>-->
+
+    <!--<WrapPanel VerticalAlignment="Top" Orientation="Horizontal">
+        <Button Margin="5" Width="100" Height="30"></Button>
+        <Button Margin="5" Width="100" Height="30"></Button>
+        <Button Margin="5" Width="100" Height="30"></Button>
+        <Button Margin="5" Width="100" Height="30"></Button>
+    </WrapPanel>-->
+    <!--#endregion-->
+
+    <!--#region Grid -->
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*">
+
+            </RowDefinition>
+            <RowDefinition Height="auto">
+
+            </RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Button  Grid.Row="1" Width="100" Height="200"/>
+
+
+    </Grid>-->
+    <!--#endregion-->
+
+    <!--<DockPanel LastChildFill="False">
+        <Button DockPanel.Dock="Bottom" Width="100" Height="30"></Button>
+        <Button DockPanel.Dock="Top" Margin="5" Width="100" Height="30"></Button>
+        <Button DockPanel.Dock="Right" Margin="5" Width="100" Height="30"></Button>
+        <Button DockPanel.Dock="Left" Margin="5" Width="100" Height="30"></Button>
+    </DockPanel>-->
+    
+    
+   
+
+
+
+
+
+</Window>

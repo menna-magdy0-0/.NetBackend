@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Projects\\MyShapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3EB55-E1B4-4BF8-AD46-8B92433919D7}|Demo3\\Demo3.csproj|d:\\c#projects\\myshapes\\demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3EB55-E1B4-4BF8-AD46-8B92433919D7}|Demo3\\Demo3.csproj|solutionrelative:demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3EB55-E1B4-4BF8-AD46-8B92433919D7}|Demo3\\Demo3.csproj|d:\\c#projects\\myshapes\\demo3\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3EB55-E1B4-4BF8-AD46-8B92433919D7}|Demo3\\Demo3.csproj|solutionrelative:demo3\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3EB55-E1B4-4BF8-AD46-8B92433919D7}|Demo3\\Demo3.csproj|d:\\c#projects\\myshapes\\demo3\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E3EB55-E1B4-4BF8-AD46-8B92433919D7}|Demo3\\Demo3.csproj|solutionrelative:demo3\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "D:\\C#Projects\\MyShapes\\Demo3\\MyMath.cs",
+              "RelativeDocumentMoniker": "Demo3\\MyMath.cs",
+              "ToolTip": "D:\\C#Projects\\MyShapes\\Demo3\\MyMath.cs",
+              "RelativeToolTip": "Demo3\\MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:41:42.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "D:\\C#Projects\\MyShapes\\Demo3\\Point3D.cs",
+              "RelativeDocumentMoniker": "Demo3\\Point3D.cs",
+              "ToolTip": "D:\\C#Projects\\MyShapes\\Demo3\\Point3D.cs",
+              "RelativeToolTip": "Demo3\\Point3D.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:58:39.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\MyShapes\\Demo3\\Program.cs",
+              "RelativeDocumentMoniker": "Demo3\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\MyShapes\\Demo3\\Program.cs",
+              "RelativeToolTip": "Demo3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:01:40.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

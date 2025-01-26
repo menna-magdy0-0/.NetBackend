@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Projects\\EFCoreFirstLook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|d:\\c#projects\\efcorefirstlook\\efcorefirstlook\\entities\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|solutionrelative:efcorefirstlook\\entities\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|d:\\c#projects\\efcorefirstlook\\efcodeonlyfromdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|solutionrelative:efcodeonlyfromdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|D:\\C#Projects\\EFCoreFirstLook\\efcodeonlyfromdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|solutionrelative:efcodeonlyfromdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|d:\\c#projects\\efcorefirstlook\\efcodeonlyfromdb\\entities\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|solutionrelative:efcodeonlyfromdb\\entities\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|d:\\c#projects\\efcorefirstlook\\efcodeonlyfromdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|solutionrelative:efcodeonlyfromdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|d:\\c#projects\\efcorefirstlook\\efcodeonlyfromdb\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E1AEAD-F479-4DAB-B1F9-6C26BC4A2CBC}|EFCodeOnlyFromDB\\EFCodeOnlyFromDB.csproj|solutionrelative:efcodeonlyfromdb\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|d:\\c#projects\\efcorefirstlook\\efcorefirstlook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|solutionrelative:efcorefirstlook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|d:\\c#projects\\efcorefirstlook\\efcorefirstlook\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|solutionrelative:efcorefirstlook\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|d:\\c#projects\\efcorefirstlook\\efcorefirstlook\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|solutionrelative:efcorefirstlook\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|d:\\c#projects\\efcorefirstlook\\efcorefirstlook\\model\\draft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB666C55-F6AB-4E9A-A431-700105FD891B}|EFCoreFirstLook\\EFCoreFirstLook.csproj|solutionrelative:efcorefirstlook\\model\\draft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Entities\\ITIContext.cs",
+              "RelativeDocumentMoniker": "EFCodeOnlyFromDB\\Entities\\ITIContext.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Entities\\ITIContext.cs",
+              "RelativeToolTip": "EFCodeOnlyFromDB\\Entities\\ITIContext.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwGQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:00:34.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Form1.cs",
+              "RelativeDocumentMoniker": "EFCodeOnlyFromDB\\Form1.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Form1.cs [Design]",
+              "RelativeToolTip": "EFCodeOnlyFromDB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:20:56.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Program.cs",
+              "RelativeDocumentMoniker": "EFCodeOnlyFromDB\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Program.cs",
+              "RelativeToolTip": "EFCodeOnlyFromDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:02:51.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Form1.cs",
+              "RelativeDocumentMoniker": "EFCodeOnlyFromDB\\Form1.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Form1.cs",
+              "RelativeToolTip": "EFCodeOnlyFromDB\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:26:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "EFCodeOnlyFromDB\\Models\\Instructor.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCodeOnlyFromDB\\Models\\Instructor.cs",
+              "RelativeToolTip": "EFCodeOnlyFromDB\\Models\\Instructor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:06:54.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstLook\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Program.cs",
+              "RelativeToolTip": "EFCoreFirstLook\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwv28AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:28:52.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstLook\\Model\\Employee.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Model\\Employee.cs",
+              "RelativeToolTip": "EFCoreFirstLook\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:30:46.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstLook\\Model\\Department.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Model\\Department.cs",
+              "RelativeToolTip": "EFCoreFirstLook\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:04:37.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Entities\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstLook\\Entities\\CompanyContext.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Entities\\CompanyContext.cs",
+              "RelativeToolTip": "EFCoreFirstLook\\Entities\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:44:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Draft.cs",
+              "DocumentMoniker": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Model\\Draft.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstLook\\Model\\Draft.cs",
+              "ToolTip": "D:\\C#Projects\\EFCoreFirstLook\\EFCoreFirstLook\\Model\\Draft.cs",
+              "RelativeToolTip": "EFCoreFirstLook\\Model\\Draft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:50:51.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

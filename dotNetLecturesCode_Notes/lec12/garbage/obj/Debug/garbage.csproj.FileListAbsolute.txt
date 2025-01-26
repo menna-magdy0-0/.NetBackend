@@ -1,0 +1,7 @@
+D:\C#Projects\lec12\garbage\bin\Debug\garbage.exe.config
+D:\C#Projects\lec12\garbage\bin\Debug\garbage.exe
+D:\C#Projects\lec12\garbage\bin\Debug\garbage.pdb
+D:\C#Projects\lec12\garbage\obj\Debug\garbage.csproj.AssemblyReference.cache
+D:\C#Projects\lec12\garbage\obj\Debug\garbage.csproj.CoreCompileInputs.cache
+D:\C#Projects\lec12\garbage\obj\Debug\garbage.exe
+D:\C#Projects\lec12\garbage\obj\Debug\garbage.pdb

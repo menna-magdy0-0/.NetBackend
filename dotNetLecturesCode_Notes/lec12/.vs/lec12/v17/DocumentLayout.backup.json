@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Projects\\lec12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1684606C-606A-4E09-8186-DECE9E15554A}|garbage\\garbage.csproj|d:\\c#projects\\lec12\\garbage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684606C-606A-4E09-8186-DECE9E15554A}|garbage\\garbage.csproj|solutionrelative:garbage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1684606C-606A-4E09-8186-DECE9E15554A}|garbage\\garbage.csproj|d:\\c#projects\\lec12\\garbage\\tempfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1684606C-606A-4E09-8186-DECE9E15554A}|garbage\\garbage.csproj|solutionrelative:garbage\\tempfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|d:\\c#projects\\lec12\\lec12\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|solutionrelative:lec12\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|d:\\c#projects\\lec12\\lec12\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|solutionrelative:lec12\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|d:\\c#projects\\lec12\\lec12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|solutionrelative:lec12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|d:\\c#projects\\lec12\\lec12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AEDEAE-A6F5-479D-8A3C-6DD2A835DBD9}|lec12\\lec12.csproj|solutionrelative:lec12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TempFile.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec12\\garbage\\TempFile.cs",
+              "RelativeDocumentMoniker": "garbage\\TempFile.cs",
+              "ToolTip": "D:\\C#Projects\\lec12\\garbage\\TempFile.cs",
+              "RelativeToolTip": "garbage\\TempFile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:30:22.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec12\\garbage\\Program.cs",
+              "RelativeDocumentMoniker": "garbage\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\lec12\\garbage\\Program.cs",
+              "RelativeToolTip": "garbage\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:59:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec12\\lec12\\Group.cs",
+              "RelativeDocumentMoniker": "lec12\\Group.cs",
+              "ToolTip": "D:\\C#Projects\\lec12\\lec12\\Group.cs",
+              "RelativeToolTip": "lec12\\Group.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:39:33.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec12\\lec12\\Post.cs",
+              "RelativeDocumentMoniker": "lec12\\Post.cs",
+              "ToolTip": "D:\\C#Projects\\lec12\\lec12\\Post.cs",
+              "RelativeToolTip": "lec12\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:35:02.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec12\\lec12\\User.cs",
+              "RelativeDocumentMoniker": "lec12\\User.cs",
+              "ToolTip": "D:\\C#Projects\\lec12\\lec12\\User.cs",
+              "RelativeToolTip": "lec12\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:33:21.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec12\\lec12\\Program.cs",
+              "RelativeDocumentMoniker": "lec12\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\lec12\\lec12\\Program.cs",
+              "RelativeToolTip": "lec12\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:32:50.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

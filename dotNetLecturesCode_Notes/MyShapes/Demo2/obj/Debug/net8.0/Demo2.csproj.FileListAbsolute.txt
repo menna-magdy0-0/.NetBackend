@@ -1,0 +1,14 @@
+D:\C#Projects\MyShapes\Demo2\bin\Debug\net8.0\Demo2.exe
+D:\C#Projects\MyShapes\Demo2\bin\Debug\net8.0\Demo2.deps.json
+D:\C#Projects\MyShapes\Demo2\bin\Debug\net8.0\Demo2.runtimeconfig.json
+D:\C#Projects\MyShapes\Demo2\bin\Debug\net8.0\Demo2.dll
+D:\C#Projects\MyShapes\Demo2\bin\Debug\net8.0\Demo2.pdb
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\Demo2.AssemblyInfoInputs.cache
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\Demo2.AssemblyInfo.cs
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\Demo2.csproj.CoreCompileInputs.cache
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\Demo2.dll
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\refint\Demo2.dll
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\Demo2.pdb
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\Demo2.genruntimeconfig.cache
+D:\C#Projects\MyShapes\Demo2\obj\Debug\net8.0\ref\Demo2.dll

@@ -1,0 +1,14 @@
+D:\C#Projects\lec10\lec10\bin\Debug\net8.0\lec10.exe
+D:\C#Projects\lec10\lec10\bin\Debug\net8.0\lec10.deps.json
+D:\C#Projects\lec10\lec10\bin\Debug\net8.0\lec10.runtimeconfig.json
+D:\C#Projects\lec10\lec10\bin\Debug\net8.0\lec10.dll
+D:\C#Projects\lec10\lec10\bin\Debug\net8.0\lec10.pdb
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\lec10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\lec10.AssemblyInfoInputs.cache
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\lec10.AssemblyInfo.cs
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\lec10.csproj.CoreCompileInputs.cache
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\lec10.dll
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\refint\lec10.dll
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\lec10.pdb
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\lec10.genruntimeconfig.cache
+D:\C#Projects\lec10\lec10\obj\Debug\net8.0\ref\lec10.dll

@@ -1,0 +1,15 @@
+D:\.NetBackend\C#Tasks\D04\D04\bin\Debug\net8.0\D04.exe
+D:\.NetBackend\C#Tasks\D04\D04\bin\Debug\net8.0\D04.deps.json
+D:\.NetBackend\C#Tasks\D04\D04\bin\Debug\net8.0\D04.runtimeconfig.json
+D:\.NetBackend\C#Tasks\D04\D04\bin\Debug\net8.0\D04.dll
+D:\.NetBackend\C#Tasks\D04\D04\bin\Debug\net8.0\D04.pdb
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.AssemblyInfoInputs.cache
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.AssemblyInfo.cs
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.csproj.CoreCompileInputs.cache
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.sourcelink.json
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.dll
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\refint\D04.dll
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.pdb
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\D04.genruntimeconfig.cache
+D:\.NetBackend\C#Tasks\D04\D04\obj\Debug\net8.0\ref\D04.dll

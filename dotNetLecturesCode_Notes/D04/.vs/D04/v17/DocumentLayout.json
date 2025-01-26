@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Projects\\D04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|d:\\c#projects\\d04\\d04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|solutionrelative:d04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|d:\\c#projects\\d04\\d04\\febseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|solutionrelative:d04\\febseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|d:\\c#projects\\d04\\d04\\seriesbytwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|solutionrelative:d04\\seriesbytwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|d:\\c#projects\\d04\\d04\\iseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA978C-19D0-4385-A94A-ACB23E85D4A4}|D04\\D04.csproj|solutionrelative:d04\\iseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FebSeries.cs",
+              "DocumentMoniker": "D:\\C#Projects\\D04\\D04\\FebSeries.cs",
+              "RelativeDocumentMoniker": "D04\\FebSeries.cs",
+              "ToolTip": "D:\\C#Projects\\D04\\D04\\FebSeries.cs",
+              "RelativeToolTip": "D04\\FebSeries.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:13:33.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeriesByTwo.cs",
+              "DocumentMoniker": "D:\\C#Projects\\D04\\D04\\SeriesByTwo.cs",
+              "RelativeDocumentMoniker": "D04\\SeriesByTwo.cs",
+              "ToolTip": "D:\\C#Projects\\D04\\D04\\SeriesByTwo.cs",
+              "RelativeToolTip": "D04\\SeriesByTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:07:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISeries.cs",
+              "DocumentMoniker": "D:\\C#Projects\\D04\\D04\\ISeries.cs",
+              "RelativeDocumentMoniker": "D04\\ISeries.cs",
+              "ToolTip": "D:\\C#Projects\\D04\\D04\\ISeries.cs",
+              "RelativeToolTip": "D04\\ISeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:00:04.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\D04\\D04\\Program.cs",
+              "RelativeDocumentMoniker": "D04\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\D04\\D04\\Program.cs",
+              "RelativeToolTip": "D04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:59:22.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

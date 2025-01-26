@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Projects\\lec6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|d:\\c#projects\\lec6\\lec6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|solutionrelative:lec6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|d:\\c#projects\\lec6\\lec6\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|solutionrelative:lec6\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|d:\\c#projects\\lec6\\lec6\\typec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|solutionrelative:lec6\\typec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|d:\\c#projects\\lec6\\lec6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|solutionrelative:lec6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|d:\\c#projects\\lec6\\lec6\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|solutionrelative:lec6\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|d:\\c#projects\\lec6\\lec6\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA41B2B-864A-426E-9A08-8B6E45F53DD3}|lec6\\lec6.csproj|solutionrelative:lec6\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeC.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec6\\lec6\\TypeC.cs",
+              "RelativeDocumentMoniker": "lec6\\TypeC.cs",
+              "ToolTip": "D:\\C#Projects\\lec6\\lec6\\TypeC.cs",
+              "RelativeToolTip": "lec6\\TypeC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:21:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeA.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec6\\lec6\\TypeA.cs",
+              "RelativeDocumentMoniker": "lec6\\TypeA.cs",
+              "ToolTip": "D:\\C#Projects\\lec6\\lec6\\TypeA.cs",
+              "RelativeToolTip": "lec6\\TypeA.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:54:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec6\\lec6\\Emp.cs",
+              "RelativeDocumentMoniker": "lec6\\Emp.cs",
+              "ToolTip": "D:\\C#Projects\\lec6\\lec6\\Emp.cs",
+              "RelativeToolTip": "lec6\\Emp.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:22:36.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec6\\lec6\\Person.cs",
+              "RelativeDocumentMoniker": "lec6\\Person.cs",
+              "ToolTip": "D:\\C#Projects\\lec6\\lec6\\Person.cs",
+              "RelativeToolTip": "lec6\\Person.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAewDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:05:04.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec6\\lec6\\Program.cs",
+              "RelativeDocumentMoniker": "lec6\\Program.cs",
+              "ToolTip": "D:\\C#Projects\\lec6\\lec6\\Program.cs",
+              "RelativeToolTip": "lec6\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T22:04:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypeB.cs",
+              "DocumentMoniker": "D:\\C#Projects\\lec6\\lec6\\TypeB.cs",
+              "RelativeDocumentMoniker": "lec6\\TypeB.cs",
+              "ToolTip": "D:\\C#Projects\\lec6\\lec6\\TypeB.cs",
+              "RelativeToolTip": "lec6\\TypeB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:05:12.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

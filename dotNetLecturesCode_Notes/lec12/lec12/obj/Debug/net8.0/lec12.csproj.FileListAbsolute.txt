@@ -1,0 +1,14 @@
+D:\C#Projects\lec12\lec12\bin\Debug\net8.0\lec12.exe
+D:\C#Projects\lec12\lec12\bin\Debug\net8.0\lec12.deps.json
+D:\C#Projects\lec12\lec12\bin\Debug\net8.0\lec12.runtimeconfig.json
+D:\C#Projects\lec12\lec12\bin\Debug\net8.0\lec12.dll
+D:\C#Projects\lec12\lec12\bin\Debug\net8.0\lec12.pdb
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\lec12.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\lec12.AssemblyInfoInputs.cache
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\lec12.AssemblyInfo.cs
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\lec12.csproj.CoreCompileInputs.cache
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\lec12.dll
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\refint\lec12.dll
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\lec12.pdb
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\lec12.genruntimeconfig.cache
+D:\C#Projects\lec12\lec12\obj\Debug\net8.0\ref\lec12.dll

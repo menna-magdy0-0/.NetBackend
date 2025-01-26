@@ -1,0 +1,14 @@
+D:\C#Projects\lec8\errors\bin\Debug\net8.0\errors.exe
+D:\C#Projects\lec8\errors\bin\Debug\net8.0\errors.deps.json
+D:\C#Projects\lec8\errors\bin\Debug\net8.0\errors.runtimeconfig.json
+D:\C#Projects\lec8\errors\bin\Debug\net8.0\errors.dll
+D:\C#Projects\lec8\errors\bin\Debug\net8.0\errors.pdb
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\errors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\errors.AssemblyInfoInputs.cache
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\errors.AssemblyInfo.cs
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\errors.csproj.CoreCompileInputs.cache
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\errors.dll
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\refint\errors.dll
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\errors.pdb
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\errors.genruntimeconfig.cache
+D:\C#Projects\lec8\errors\obj\Debug\net8.0\ref\errors.dll

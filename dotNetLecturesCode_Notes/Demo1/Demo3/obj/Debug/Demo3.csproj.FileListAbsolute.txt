@@ -1,0 +1,10 @@
+D:\C#Projects\Demo1\Demo3\bin\Debug\Demo3.exe.config
+D:\C#Projects\Demo1\Demo3\bin\Debug\Demo3.exe
+D:\C#Projects\Demo1\Demo3\bin\Debug\Demo3.pdb
+D:\C#Projects\Demo1\Demo3\obj\Debug\Demo3.csproj.AssemblyReference.cache
+D:\C#Projects\Demo1\Demo3\obj\Debug\Demo3.Form1.resources
+D:\C#Projects\Demo1\Demo3\obj\Debug\Demo3.Properties.Resources.resources
+D:\C#Projects\Demo1\Demo3\obj\Debug\Demo3.csproj.GenerateResource.cache
+D:\C#Projects\Demo1\Demo3\obj\Debug\Demo3.csproj.CoreCompileInputs.cache
+D:\C#Projects\Demo1\Demo3\obj\Debug\Demo3.exe
+D:\C#Projects\Demo1\Demo3\obj\Debug\Demo3.pdb

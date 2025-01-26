@@ -1,0 +1,14 @@
+D:\C#Projects\lec10\D07 PIII\bin\Debug\net8.0\D07 PIII.exe
+D:\C#Projects\lec10\D07 PIII\bin\Debug\net8.0\D07 PIII.deps.json
+D:\C#Projects\lec10\D07 PIII\bin\Debug\net8.0\D07 PIII.runtimeconfig.json
+D:\C#Projects\lec10\D07 PIII\bin\Debug\net8.0\D07 PIII.dll
+D:\C#Projects\lec10\D07 PIII\bin\Debug\net8.0\D07 PIII.pdb
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\D07 PIII.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\D07 PIII.AssemblyInfoInputs.cache
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\D07 PIII.AssemblyInfo.cs
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\D07 PIII.csproj.CoreCompileInputs.cache
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\D07 PIII.dll
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\refint\D07 PIII.dll
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\D07 PIII.pdb
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\D07 PIII.genruntimeconfig.cache
+D:\C#Projects\lec10\D07 PIII\obj\Debug\net8.0\ref\D07 PIII.dll
