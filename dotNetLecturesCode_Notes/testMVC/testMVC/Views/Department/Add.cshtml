@@ -1,0 +1,33 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add</h1>
+<!--/Department/SaveAdd?Name=Sd&ManagerName=Ahmed-->
+<form method="post" action="/Department/SaveAdd">
+    <div>
+        <label>Name</label>
+        @* if model null ignore value if model doesn't null get the value *@
+        @* @if(Model!=null) *@
+        @* { *@
+        @*     <input name="Name" id="Name" value="@Model?.Name" type="text" class="form form-control" /> *@
+
+        @* } *@
+        @* else *@
+        @* { *@
+        @*     <input name="Name" id="Name"  type="text" class="form form-control" /> *@
+
+        @* } *@
+        <input name="Name"  id="Name" value="@Model?.Name" type="text" class="form form-control"/>
+    </div>
+
+    <div>
+        <label>ManagerName</label>
+        <input name="ManagerName" id="ManagerName" value="@Model?.ManagerName" type="text" class="form form-control" />
+    </div>
+
+    <input type="submit" value="Create" class="btn btn-primary"/>
+</form>
+
+<a href="/Department/Index">Back To List</a>

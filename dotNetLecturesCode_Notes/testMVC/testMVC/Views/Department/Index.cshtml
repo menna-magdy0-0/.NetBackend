@@ -1,0 +1,23 @@
+﻿<!--to make strong type of Razor page-->
+@model List<Department>
+@{
+    ViewData["Title"] = "Department Index";
+}
+
+<h1>Index</h1>
+<a href="/Department/Add" class="btn btn-success">New</a>
+<table class=" table table-hover table-bordered">
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+        </tr>
+    }
+</table>

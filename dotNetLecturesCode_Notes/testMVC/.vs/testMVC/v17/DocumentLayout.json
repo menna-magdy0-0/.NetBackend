@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Projects\\testMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\viewmodel\\empwithdeptlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\viewmodel\\empwithdeptlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\controllers\\bindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\bindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\viewmodel\\empdeptcolortempmsgbrchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\viewmodel\\empdeptcolortempmsgbrchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\c#projects\\testmvc\\testmvc\\models\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:09:39.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:52:17.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Department\\Add.cshtml",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Department\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T20:59:34.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T18:54:19.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "testMVC\\Models\\Department.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Models\\Department.cs",
+              "RelativeToolTip": "testMVC\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:29:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Models\\ITIContext.cs",
+              "RelativeDocumentMoniker": "testMVC\\Models\\ITIContext.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Models\\ITIContext.cs",
+              "RelativeToolTip": "testMVC\\Models\\ITIContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:49:50.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "testMVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "testMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:29:21.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T04:16:02.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpWithDeptListViewModel.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\ViewModel\\EmpWithDeptListViewModel.cs",
+              "RelativeDocumentMoniker": "testMVC\\ViewModel\\EmpWithDeptListViewModel.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\ViewModel\\EmpWithDeptListViewModel.cs",
+              "RelativeToolTip": "testMVC\\ViewModel\\EmpWithDeptListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:37:09.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T01:15:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BindController.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Controllers\\BindController.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\BindController.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Controllers\\BindController.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\BindController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:41:16.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpDeptColorTempMsgBrchViewModel.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\ViewModel\\EmpDeptColorTempMsgBrchViewModel.cs",
+              "RelativeDocumentMoniker": "testMVC\\ViewModel\\EmpDeptColorTempMsgBrchViewModel.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\ViewModel\\EmpDeptColorTempMsgBrchViewModel.cs",
+              "RelativeToolTip": "testMVC\\ViewModel\\EmpDeptColorTempMsgBrchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:26:18.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T06:06:44.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "testClass.cs",
+              "DocumentMoniker": "D:\\C#Projects\\testMVC\\testMVC\\Models\\testClass.cs",
+              "RelativeDocumentMoniker": "testMVC\\Models\\testClass.cs",
+              "ToolTip": "D:\\C#Projects\\testMVC\\testMVC\\Models\\testClass.cs",
+              "RelativeToolTip": "testMVC\\Models\\testClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:38:33.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

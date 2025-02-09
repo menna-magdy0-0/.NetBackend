@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\C#Projects\WpfDay01\WpfDay01\obj\Debug\net8.0-windows\
+D:\Backend\.NetBackend\dotNetLecturesCode_Notes\WpfDay01\WpfDay01\obj\Debug\net8.0-windows\
 WpfDay01
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\C#Projects\WpfDay01\WpfDay01\App.xaml
+D:\Backend\.NetBackend\dotNetLecturesCode_Notes\WpfDay01\WpfDay01\App.xaml
 2123534255
 
 5-460411798
-198-1431420039
+198-352714763
 InkCanvas.xaml;MainWindow.xaml;
 
-False
+True
 
