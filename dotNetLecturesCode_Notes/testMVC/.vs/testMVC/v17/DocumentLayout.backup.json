@@ -90,11 +90,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -104,7 +112,7 @@
               "RelativeDocumentMoniker": "testMVC\\Views\\Shared\\_AdvLayout.cshtml",
               "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Shared\\_AdvLayout.cshtml",
               "RelativeToolTip": "testMVC\\Views\\Shared\\_AdvLayout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-11T02:57:26.495Z",
               "EditorCaption": ""
