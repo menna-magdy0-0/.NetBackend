@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace testMVC.Models
@@ -11,7 +12,9 @@ namespace testMVC.Models
         public string? JobTitle { get; set; }
         public string? ImageURL { get; set; }
         public string? Address { get; set; }
+
         [ForeignKey("Department")]
+        [Display(Name="Department")]
         public int DepartmentId { get; set; }
         public virtual Department Department { get; set; }
     }

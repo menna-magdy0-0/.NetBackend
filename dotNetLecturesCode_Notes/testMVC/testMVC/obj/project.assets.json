@@ -7602,11 +7602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#Projects\\testMVC\\testMVC\\testMVC.csproj",
+      "projectUniqueName": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\testMVC.csproj",
       "projectName": "testMVC",
-      "projectPath": "D:\\C#Projects\\testMVC\\testMVC\\testMVC.csproj",
+      "projectPath": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\testMVC.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\C#Projects\\testMVC\\testMVC\\obj\\",
+      "outputPath": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

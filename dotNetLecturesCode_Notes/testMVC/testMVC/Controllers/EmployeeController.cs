@@ -9,13 +9,33 @@ namespace testMVC.Controllers
     {
         ITIContext context = new ITIContext();
         public EmployeeController() { }
+        [HttpGet]
+        public IActionResult New()
+        {
+            ViewData["DeptList"]=context.Departments.ToList();
+            return View("New");
+        }
+        [HttpPost]
+        public IActionResult SaveNew(Employee EmpFromRequest)
+        {
+            if (EmpFromRequest.Name != null && EmpFromRequest.Salary>=6000)
+            {
+                //save
+                context.Employees.Add(EmpFromRequest);
+                context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            ViewData["DeptList"] = context.Departments.ToList();
+            return View("New",EmpFromRequest);
+        }
+
         public IActionResult Index()
         {
             return View("Index",context.Employees.ToList());
         }
 
         //Handle Link
-        public IActionResult Edit(int id)
+        public IActionResult Edit(int id,string name)
         {
             Employee EmpModel=context.Employees.FirstOrDefault(x => x.Id == id);
             List<Department> DepartmentList = context.Departments.ToList();
@@ -32,7 +52,7 @@ namespace testMVC.Controllers
             return View("Edit", EmpViewModel);//Model EmpDeptListViewModel
         }
         [HttpPost]
-        public IActionResult SaveEdit(Employee EmpFromRequest,int id)
+        public IActionResult SaveEdit(EmpWithDeptListViewModel EmpFromRequest,int id)
         {
             if (EmpFromRequest.Name != null)
             {
@@ -46,6 +66,7 @@ namespace testMVC.Controllers
                 return RedirectToAction("Index");
 
             }
+            EmpFromRequest.DeptList=context.Departments.ToList();
             return View("Edit",EmpFromRequest);
         }
 

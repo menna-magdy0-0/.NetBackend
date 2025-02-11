@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using testMVC.Models;
 
 namespace testMVC.ViewModel
@@ -6,6 +7,8 @@ namespace testMVC.ViewModel
     public class EmpWithDeptListViewModel
     {
         public int Id { get; set; }
+        [Display(Name="Full Name")]
+        //[DataType(DataType.Password)] //Helper
         public string? Name { get; set; }
         public int? Salary { get; set; }
         public string? JobTitle { get; set; }
