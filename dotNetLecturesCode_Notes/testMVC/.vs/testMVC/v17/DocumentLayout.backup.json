@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\views\\shared\\_advlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\shared\\_advlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,12 +105,21 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:53:17.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_AdvLayout.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Shared\\_AdvLayout.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Shared\\_AdvLayout.cshtml",
@@ -119,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\_ViewStart.cshtml",
@@ -127,12 +140,11 @@
               "RelativeToolTip": "testMVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T02:46:41.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T02:46:41.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Department\\Index.cshtml",
@@ -140,12 +152,11 @@
               "RelativeToolTip": "testMVC\\Views\\Department\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T04:16:02.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T04:16:02.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Home\\Privacy.cshtml",
@@ -153,12 +164,11 @@
               "RelativeToolTip": "testMVC\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T02:19:58.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T02:19:58.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_MyLayout.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Shared\\_MyLayout.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Shared\\_MyLayout.cshtml",
@@ -166,12 +176,11 @@
               "RelativeToolTip": "testMVC\\Views\\Shared\\_MyLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T02:15:18.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T02:15:18.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Shared\\_Layout.cshtml",
@@ -179,12 +188,11 @@
               "RelativeToolTip": "testMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T22:31:13.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T22:31:13.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "testMVC\\Controllers\\EmployeeController.cs",
@@ -192,12 +200,11 @@
               "RelativeToolTip": "testMVC\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T05:52:17.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T05:52:17.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "testMVC\\Models\\Employee.cs",
@@ -205,12 +212,11 @@
               "RelativeToolTip": "testMVC\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T01:29:21.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T01:29:21.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "New.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Employee\\New.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\New.cshtml",
@@ -218,12 +224,11 @@
               "RelativeToolTip": "testMVC\\Views\\Employee\\New.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-10T19:34:37.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T19:34:37.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\Edit.cshtml",
@@ -231,12 +236,11 @@
               "RelativeToolTip": "testMVC\\Views\\Employee\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T01:15:01.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T01:15:01.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\Index.cshtml",
@@ -244,12 +248,11 @@
               "RelativeToolTip": "testMVC\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T18:54:19.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T18:54:19.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ITIContext.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\ITIContext.cs",
               "RelativeDocumentMoniker": "testMVC\\Models\\ITIContext.cs",
@@ -257,12 +260,11 @@
               "RelativeToolTip": "testMVC\\Models\\ITIContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T01:49:50.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T01:49:50.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EmpWithDeptListViewModel.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\ViewModel\\EmpWithDeptListViewModel.cs",
               "RelativeDocumentMoniker": "testMVC\\ViewModel\\EmpWithDeptListViewModel.cs",
@@ -270,12 +272,11 @@
               "RelativeToolTip": "testMVC\\ViewModel\\EmpWithDeptListViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T19:37:09.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T19:37:09.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "testMVC\\Controllers\\DepartmentController.cs",
@@ -283,12 +284,11 @@
               "RelativeToolTip": "testMVC\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T04:09:39.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T04:09:39.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\Department.cs",
               "RelativeDocumentMoniker": "testMVC\\Models\\Department.cs",
@@ -296,12 +296,11 @@
               "RelativeToolTip": "testMVC\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T01:29:21.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T01:29:21.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Department\\Add.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Department\\Add.cshtml",
@@ -309,12 +308,11 @@
               "RelativeToolTip": "testMVC\\Views\\Department\\Add.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T20:59:34.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T20:59:34.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "BindController.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\BindController.cs",
               "RelativeDocumentMoniker": "testMVC\\Controllers\\BindController.cs",
@@ -322,12 +320,11 @@
               "RelativeToolTip": "testMVC\\Controllers\\BindController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T13:41:16.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T13:41:16.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "EmpDeptColorTempMsgBrchViewModel.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\ViewModel\\EmpDeptColorTempMsgBrchViewModel.cs",
               "RelativeDocumentMoniker": "testMVC\\ViewModel\\EmpDeptColorTempMsgBrchViewModel.cs",
@@ -335,12 +332,11 @@
               "RelativeToolTip": "testMVC\\ViewModel\\EmpDeptColorTempMsgBrchViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T12:26:18.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T12:26:18.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\Details.cshtml",
@@ -348,12 +344,11 @@
               "RelativeToolTip": "testMVC\\Views\\Employee\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T06:06:44.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T06:06:44.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "testClass.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\testClass.cs",
               "RelativeDocumentMoniker": "testMVC\\Models\\testClass.cs",
@@ -361,8 +356,7 @@
               "RelativeToolTip": "testMVC\\Models\\testClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T08:38:33.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T08:38:33.959Z"
             }
           ]
         }
