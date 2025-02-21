@@ -1,16 +1,23 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using testMVC.Models;
+using testMVC.Repository;
 
 namespace testMVC.Controllers
 {
     public class DepartmentController : Controller
     {
-        ITIContext context = new ITIContext();
+        //ITIContext context = new ITIContext();
+        IDepartmentRepository DepartmentRepository;
+        public DepartmentController(IDepartmentRepository deptRepository)//inject 
+        {
+            DepartmentRepository = deptRepository;//new DepartmentRepository();
+        }
         public IActionResult Index()
         {
-            List<Department> departmentList = context.Departments
-                .Include(d=>d.Employees).ToList();//to list for immediate execution and it is lazy loading can't get related table data of employee and to avoid it we use Include keyword
+            List<Department> departmentList = DepartmentRepository.GetAll();
+            //context.Departments
+            //.Include(d=>d.Employees).ToList();//to list for immediate execution and it is lazy loading can't get related table data of employee and to avoid it we use Include keyword
             return View("Index",departmentList);
         }
         [HttpGet]
@@ -28,8 +35,10 @@ namespace testMVC.Controllers
             // print newDept.ManagerName ?? "Menna2"
             if(newDeptFromRequest.Name!=null)
             {
-                context.Departments.Add(newDeptFromRequest);
-                context.SaveChanges();
+                DepartmentRepository.Add(newDeptFromRequest);
+                DepartmentRepository.Save();
+                //context.Departments.Add(newDeptFromRequest);
+                //context.SaveChanges();
                 //return View("Index");
                 //call action from another action 
                 return RedirectToAction("Index");

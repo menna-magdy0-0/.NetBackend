@@ -1,9 +1,52 @@
 ﻿namespace testMVC.Models
 {
+    interface ISort//contract
+    {
+        
+        void Sort(int[] arr);
+    }
+
+
+    class BubbleSort:ISort
+    {
+        public void Sort(int[] arr)
+        {
+            //arr sort using bubble sort
+        }
+    }
+    class SelectionSort : ISort
+    {
+        public void Sort(int[] arr)
+        {
+            //arr sort using selection sort
+        }
+    }
+
+    class Stack //Hign level class depend on low level class BubbleSort
+                //depend on the class BubbleSort
+    {           //open for extend and modification 
+        int[] arr;
+        ISort SortObj;
+        public Stack(ISort _sortObj)
+        {
+            //SortObj = new BubbleSort();
+            SortObj = _sortObj;//dependency injection
+            //to make the user choose the sort type
+            //BubbleSort or SelectionSort
+            //to make initialization in the constructor
+        }
+        void SortStack()//ISort _sort)
+        {
+            SortObj.Sort(arr);
+        }
+    }
+
     public class testClass
     {
         public void Method1()
         {
+            Stack s1 = new Stack(new BubbleSort());
+            Stack s2 = new Stack(new SelectionSort());
             Console.WriteLine("1");
             Method2();
             Console.WriteLine("3");

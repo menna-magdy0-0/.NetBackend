@@ -1,18 +1,25 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using testMVC.Models;
+using testMVC.Repository;
 using testMVC.ViewModel;
 
 namespace testMVC.Controllers
 {
     public class EmployeeController : Controller
     {
-        ITIContext context = new ITIContext();
-        public EmployeeController() { }
+        IDepartmentRepository DepartmentRepository;
+        IEmployeeRepository EmployeeRepository;
+       // ITIContext context = new ITIContext();
+        public EmployeeController(IDepartmentRepository deptRepository,IEmployeeRepository empRepository) 
+        {
+            DepartmentRepository = deptRepository;// new DepartmentRepository();
+            EmployeeRepository = empRepository;//new EmployeeRepository();
+        }
         [HttpGet]
         public IActionResult New()
         {
-            ViewData["DeptList"]=context.Departments.ToList();
+            ViewData["DeptList"]=DepartmentRepository.GetAll();
             return View("New");
         }
         [HttpPost]
@@ -21,24 +28,24 @@ namespace testMVC.Controllers
             if (EmpFromRequest.Name != null && EmpFromRequest.Salary>=6000)
             {
                 //save
-                context.Employees.Add(EmpFromRequest);
-                context.SaveChanges();
+                EmployeeRepository.Add(EmpFromRequest);
+                EmployeeRepository.Save();
                 return RedirectToAction("Index");
             }
-            ViewData["DeptList"] = context.Departments.ToList();
+            ViewData["DeptList"] = DepartmentRepository.GetAll();
             return View("New",EmpFromRequest);
         }
 
         public IActionResult Index()
         {
-            return View("Index",context.Employees.ToList());
+            return View("Index",EmployeeRepository.GetAll());
         }
 
         //Handle Link
         public IActionResult Edit(int id,string name)
         {
-            Employee EmpModel=context.Employees.FirstOrDefault(x => x.Id == id);
-            List<Department> DepartmentList = context.Departments.ToList();
+            Employee EmpModel=EmployeeRepository.GetById(id);
+            List<Department> DepartmentList = DepartmentRepository.GetAll();
             //create view mode mapping
             EmpWithDeptListViewModel EmpViewModel=new EmpWithDeptListViewModel();
             EmpViewModel.Id = EmpModel.Id;
@@ -56,17 +63,19 @@ namespace testMVC.Controllers
         {
             if (EmpFromRequest.Name != null)
             {
-                Employee EmpFromDB= context.Employees.FirstOrDefault(e => e.Id == id);
+                Employee EmpFromDB = EmployeeRepository.GetById(id);
                 EmpFromDB.Address= EmpFromRequest.Address;
                 EmpFromDB.Salary= EmpFromRequest.Salary;
                 EmpFromDB.JobTitle= EmpFromRequest.JobTitle;
                 EmpFromDB.ImageURL= EmpFromRequest.ImageURL;
                 EmpFromDB.DepartmentId= EmpFromRequest.DepartmentId;
-                context.SaveChanges();
+                EmpFromDB.Id=EmpFromRequest.Id;
+                EmployeeRepository.Update(EmpFromDB);
+                EmployeeRepository.Save();
                 return RedirectToAction("Index");
 
             }
-            EmpFromRequest.DeptList=context.Departments.ToList();
+            EmpFromRequest.DeptList=DepartmentRepository.GetAll();
             return View("Edit",EmpFromRequest);
         }
 
@@ -86,7 +95,7 @@ namespace testMVC.Controllers
             ViewData["brch"] = branshes;
             ViewBag.Color = "Red";
             //Employee EmpModel = context.Employees.FirstOrDefault(e => e.Id == id);
-            Employee EmpModel = context.Employees.FirstOrDefault(e=>e.Id==id);
+            Employee EmpModel = EmployeeRepository.GetById(id);
             if (EmpModel == null)
             {
                 return NotFound(); // Avoid passing null to the view
@@ -96,9 +105,7 @@ namespace testMVC.Controllers
         }
         public ActionResult DetailsVM(int id)
         {
-            Employee empModel=context.Employees
-                .Include(d=>d.Department)
-                .FirstOrDefault(e=>e.Id == id);
+            Employee empModel=EmployeeRepository.GetById(id);
             List<string> branshes = new List<string>();
             branshes.Add("Assiut");
             branshes.Add("Alex");

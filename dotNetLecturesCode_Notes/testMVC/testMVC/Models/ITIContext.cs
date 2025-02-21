@@ -8,11 +8,15 @@ namespace testMVC.Models
         {
             
         }
-        //1. on configuring to open connection to DB sql server
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public ITIContext(DbContextOptions<ITIContext> options) : base(options)
         {
-            optionsBuilder.UseSqlServer("Server=localhost\\MSSQLSERVER01;Database=Day2MVC;User Id=MennaMagdy;Password=Menna5684@noone;TrustServerCertificate=True;");
+
         }
+        //1. on configuring to open connection to DB sql server
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer();
+        //}
         //2. on model creating to add properties to entities if you need
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
