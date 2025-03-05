@@ -35,5 +35,10 @@ namespace testMVC.Repository
         {
             context.SaveChanges();
         }
+
+        public List<Employee> GetByDeptId(int id)
+        {
+            return context.Employees.Where(x => x.DepartmentId == id).ToList();
+        }
     }
 }

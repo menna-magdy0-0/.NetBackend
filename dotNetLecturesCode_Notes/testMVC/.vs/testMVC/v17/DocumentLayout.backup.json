@@ -7,48 +7,28 @@
       "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\views\\department\\deptemps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\department\\deptemps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\models\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|d:\\backend\\.netbackend\\dotnetlecturescode_notes\\testmvc\\testmvc\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6304B425-9AC0-47C5-B5EE-BCD5C4E5F845}|testMVC\\testMVC.csproj|solutionrelative:testmvc\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,156 +50,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "testMVC\\GlobalUsing.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\GlobalUsing.cs",
-              "RelativeToolTip": "testMVC\\GlobalUsing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T05:41:10.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Service\\Index.cshtml",
-              "RelativeDocumentMoniker": "testMVC\\Views\\Service\\Index.cshtml",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Service\\Index.cshtml",
-              "RelativeToolTip": "testMVC\\Views\\Service\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T05:34:41.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "testMVC\\Controllers\\ServiceController.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "testMVC\\Controllers\\ServiceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T05:10:36.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Program.cs",
               "RelativeDocumentMoniker": "testMVC\\Program.cs",
               "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Program.cs",
               "RelativeToolTip": "testMVC\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T02:47:15.296Z",
+              "WhenOpened": "2025-03-05T12:25:38.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "testMVC\\Repository\\DepartmentRepository.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\DepartmentRepository.cs",
-              "RelativeToolTip": "testMVC\\Repository\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\RouteController.cs",
+              "RelativeDocumentMoniker": "testMVC\\Controllers\\RouteController.cs",
+              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\RouteController.cs",
+              "RelativeToolTip": "testMVC\\Controllers\\RouteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T05:08:31.103Z",
+              "WhenOpened": "2025-03-05T12:16:06.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "testMVC\\Repository\\IDepartmentRepository.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\IDepartmentRepository.cs",
-              "RelativeToolTip": "testMVC\\Repository\\IDepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T05:05:32.259Z",
+              "DocumentIndex": 2,
+              "Title": "DeptEmps.cshtml",
+              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Department\\DeptEmps.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Department\\DeptEmps.cshtml",
+              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Department\\DeptEmps.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Department\\DeptEmps.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:32:45.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "testMVC\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "testMVC\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:44:10.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "testMVC\\Controllers\\DepartmentController.cs",
               "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "testMVC\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:19:31.612Z",
+              "WhenOpened": "2025-03-04T12:30:09.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "testClass.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\testClass.cs",
-              "RelativeDocumentMoniker": "testMVC\\Models\\testClass.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\testClass.cs",
-              "RelativeToolTip": "testMVC\\Models\\testClass.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "testMVC\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "testMVC\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:38:34.247Z",
+              "WhenOpened": "2025-03-04T12:34:31.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "testMVC\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "testMVC\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "testMVC\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "testMVC\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T05:52:17.123Z",
+              "WhenOpened": "2025-03-04T12:33:44.012Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "testMVC\\Models\\Employee.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\Employee.cs",
-              "RelativeToolTip": "testMVC\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T01:29:21.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ITIContext.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\ITIContext.cs",
-              "RelativeDocumentMoniker": "testMVC\\Models\\ITIContext.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\ITIContext.cs",
-              "RelativeToolTip": "testMVC\\Models\\ITIContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T01:49:50.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "testMVC\\Models\\Department.cs",
-              "ToolTip": "D:\\Backend\\.NetBackend\\dotNetLecturesCode_Notes\\testMVC\\testMVC\\Models\\Department.cs",
-              "RelativeToolTip": "testMVC\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T01:29:21.868Z"
             }
           ]
         }

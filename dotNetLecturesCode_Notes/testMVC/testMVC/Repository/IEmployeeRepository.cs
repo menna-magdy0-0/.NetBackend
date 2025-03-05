@@ -15,5 +15,7 @@ namespace testMVC.Repository
         public List<Employee> GetAll();
 
         public void Save();
+
+        public List<Employee> GetByDeptId(int id);
     }
 }

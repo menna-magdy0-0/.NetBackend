@@ -16,6 +16,12 @@ namespace testMVC.Controllers
             DepartmentRepository = deptRepository;// new DepartmentRepository();
             EmployeeRepository = empRepository;//new EmployeeRepository();
         }
+        //Employee/EmpCardPartial/2  //we use endpoint return partial view so as to I will call it using ajax "Partail Request"
+        public IActionResult EmpCardPartial(int id)
+        {
+            return PartialView("_EmpCard",EmployeeRepository.GetById(id));//Model=null
+        }
+
         [HttpGet]
         public IActionResult New()
         {
@@ -79,7 +85,10 @@ namespace testMVC.Controllers
             return View("Edit",EmpFromRequest);
         }
 
-
+        public IActionResult Delete(int id)
+        {
+            return View("Delete",EmployeeRepository.GetById(id));
+        }
 
         public IActionResult Details(int id)
         {

@@ -518,10 +518,14 @@ D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.testMVC.props
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.testMVC.props
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\testMVC.csproj.Up2Date
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\testMVC.dll
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\refint\testMVC.dll
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\testMVC.pdb
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\testMVC.genruntimeconfig.cache
 D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\obj\Debug\net8.0\ref\testMVC.dll
+D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Backend\.NetBackend\dotNetLecturesCode_Notes\testMVC\testMVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

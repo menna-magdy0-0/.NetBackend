@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using testMVC.Models;
 using testMVC.Repository;
@@ -9,10 +10,29 @@ namespace testMVC.Controllers
     {
         //ITIContext context = new ITIContext();
         IDepartmentRepository DepartmentRepository;
-        public DepartmentController(IDepartmentRepository deptRepository)//inject 
+        IEmployeeRepository EmployeeRepository;
+        public DepartmentController(IDepartmentRepository deptRepository, IEmployeeRepository employeeRepository)//inject 
         {
             DepartmentRepository = deptRepository;//new DepartmentRepository();
+            EmployeeRepository = employeeRepository;
         }
+
+
+        public IActionResult DeptEmps()
+        {
+            return View("DeptEmps", DepartmentRepository.GetAll());//list <department>
+        }
+
+        //Department/GetEmpsDeptById?deptId=1
+        public IActionResult GetEmpsDeptById(int deptId)
+        {
+            List<Employee> empList = EmployeeRepository.GetByDeptId(deptId);
+            return Json(empList);
+        }
+
+
+
+        [Authorize]
         public IActionResult Index()
         {
             List<Department> departmentList = DepartmentRepository.GetAll();
